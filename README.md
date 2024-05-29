@@ -1,26 +1,65 @@
-<h1>Projeto calculadora de bases numericas</h1>
+# Calculadora de Bases Numéricas
 
-<h2>A Calculadora de Bases Numéricas é uma ferramenta para realizar operações com números em diferentes bases numéricas. Esta calculadora permite conversões entre binário, decimal, hexadecimal e octal.  
-</h2>
+## Descrição
+A **Calculadora de Bases Numéricas** é uma ferramenta para realizar operações com números em diferentes bases numéricas. Esta calculadora permite conversões entre binário, decimal, hexadecimal e octal.
 
-<h2>Funcionalidades</h2>
+## Funcionalidades
+A calculadora realiza as seguintes operações:
 
-<p>A calculadora realiza as seguintes operações:</p>
-<ol>
-    <li> Binário para Decimal</li>
-    <li> Decimal para Binário</li>
-    <li> Hexadecimal para Binário</li>
-    <li> Binário para Hexadecimal</li>
-    <li> Octal para Decimal</li>
-    <li> Decimal para Octal</li>
-</ol>
+- **Binário para Decimal**
+- **Decimal para Binário**
+- **Hexadecimal para Binário**
+- **Binário para Hexadecimal**
+- **Octal para Decimal**
+- **Decimal para Octal**
 
-<h2>Exemplo de Uso </h2>
-<p>Aqui estão alguns exemplos de como utilizar a calculadora:</p>
+## Exemplo de Uso
+Aqui estão alguns exemplos de como utilizar a calculadora:
 
-<ol>
-    <li>Binário para Decimal: 
-        <p>Entrada: 1010</p>
-        <p>Saída: 10</p>
-    </li>
-</ol>
+### Binário para Decimal
+- **Entrada:** `1010`
+- **Saída:** `10`
+
+### Decimal para Binário
+- **Entrada:** `10`
+- **Saída:** `1010`
+
+### Hexadecimal para Binário
+- **Entrada:** `A`
+- **Saída:** `1010`
+
+### Binário para Hexadecimal
+- **Entrada:** `1010`
+- **Saída:** `A`
+
+### Octal para Decimal
+- **Entrada:** `12`
+- **Saída:** `10`
+
+### Decimal para Octal
+- **Entrada:** `10`
+- **Saída:** `12`
+
+## Instalação
+Siga os passos abaixo para instalar e executar a calculadora:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/calculadora-bases-numericas.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd calculadora-bases-numericas
+    ```
+
+3. Instale as dependências (se aplicável):
+    ```bash
+    npm install
+    ```
+
+## Execução
+Para executar a calculadora, use o seguinte comando (ajuste conforme a linguagem de programação utilizada):
+
+```bash
+npm start
