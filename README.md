@@ -20,7 +20,9 @@
 
 <ol>
     <li>Binário para Decimal: 
-        Entrada: 1010
-        Saída: 10
+        <p>
+           Entrada: 1010
+           Saída: 10
+        </p>
     </li>
 </ol>
