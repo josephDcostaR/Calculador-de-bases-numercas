@@ -14,3 +14,13 @@
     <li> Octal para Decimal</li>
     <li> Decimal para Octal</li>
 </ol>
+
+<h2>Exemplo de Uso </h2>
+<p>Aqui estão alguns exemplos de como utilizar a calculadora:</p>
+
+<ol>
+    <li>Binário para Decimal: 
+        Entrada: 1010
+        Saída: 10
+    </li>
+</ol>
