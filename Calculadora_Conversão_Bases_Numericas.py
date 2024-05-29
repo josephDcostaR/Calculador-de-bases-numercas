@@ -44,7 +44,7 @@ def main():
         print("4: Binário para Hexadecimal")
         print("5: Octal para Decimal")
         print("6: Decimal para Octal")
-        print("0: Sair")
+        print("0: Sair \n")
         
         choice = input("Digite o número da conversão desejada:  ")
         
@@ -54,7 +54,7 @@ def main():
         
         if choice == "1":
             bin_str = input("Digite o número binário: ")
-            print("Resultado:", bin_to_dec(bin_str))
+            print("Resultado:", bin_to_dec(bin_str) )
             
         elif choice == "2":
             dec_int = int(input("Digite o número decimal: "))
