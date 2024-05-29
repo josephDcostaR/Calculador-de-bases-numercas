@@ -56,7 +56,6 @@ def main():
             bin_str = input("Digite o número binário: ")
             print("Resultado:", bin_to_dec(bin_str))
             
-        
         elif choice == "2":
             dec_int = int(input("Digite o número decimal: "))
             print("Resultado:", dec_to_bin(dec_int))
