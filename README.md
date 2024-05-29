@@ -2,11 +2,11 @@
 
 <p>Descrição: Uma calculadora para realizar operações com os numeros de bases 2.
   <ol>
-    <li>1: Binário para Decimal</li>
-    <li>2: Decimal para Binário</li>
-    <li>3: Hexadecimal para Binário</li>
-    <li>4: Binário para Hexadecimal</li>
-    <li>5: Octal para Decimal</li>
-    <li>6: Decimal para Octal</li>
+    <li> Binário para Decimal</li>
+    <li> Decimal para Binário</li>
+    <li> Hexadecimal para Binário</li>
+    <li> Binário para Hexadecimal</li>
+    <li> Octal para Decimal</li>
+    <li> Decimal para Octal</li>
   </ol>
 </p>
