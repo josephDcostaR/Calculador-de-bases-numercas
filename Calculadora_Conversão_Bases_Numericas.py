@@ -1,4 +1,4 @@
-print("Calculadora de conversão na base decimal")
+print("Calculadora de conversão na base decimal \n")
 
 def bin_to_dec(bin_str):
     decimal = 0
@@ -46,7 +46,7 @@ def main():
         print("6: Decimal para Octal")
         print("0: Sair")
         
-        choice = input("Digite o número da conversão desejada: ")
+        choice = input("Digite o número da conversão desejada:  ")
         
         if choice == "0":
             print("Saindo...")
