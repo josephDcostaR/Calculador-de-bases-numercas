@@ -34,7 +34,6 @@ def dec_to_oct(dec_int):
         dec_int = dec_int // 8
     return octal if octal else "0"
 
-# Função principal para testar as conversões
 def main():
     
     while True:
