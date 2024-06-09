@@ -1,7 +1,4 @@
-
-
-from Calcularora_Binaria import Calculadora_Binaria
-
+from Calculadora_Binaria import Calculadora_Binaria
 
 class CalculadoraPrincipal:
     
